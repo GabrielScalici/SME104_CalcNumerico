@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/CfRttJ67o5H3y/giphy.gif"/>
-  <h1 align="center"> Trabalhos práticos </h1>
-  <p align="center"> SME104 - Cálculo Numérico </p>
+  <h1 align="center"> SME104 - Cálculo Numérico  </h1>
+  <p align="center"> Trabalhos práticos </p>
 </p>
 
 <p align="center">
